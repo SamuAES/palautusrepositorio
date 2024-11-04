@@ -14,4 +14,5 @@ print(f"{x} * {y} = {tulo(x, y)}")
 logger("lopetetaan")
 print("goodbye!")
 
+# muutos alkuperäisen repon mainiin
 # muutos kakkos repon mainiin
