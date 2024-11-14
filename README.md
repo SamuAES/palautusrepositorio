@@ -1,3 +1,3 @@
 # palautusrepositorio
-https://github.com/SamuAES/ohutvarasto.git
-https://github.com/SamuAES/webcounter.git
+## Ohutvarasto https://github.com/SamuAES/ohutvarasto.git
+## Webcounter https://github.com/SamuAES/webcounter.git
