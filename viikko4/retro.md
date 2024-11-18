@@ -3,3 +3,6 @@
 
 ## Glad, Sad, Mad
 ”Glad, Sad, Mad” on toinen retrospektiivi menetelmä, jossa osallistujat kirjaavat ensin havaintojaan edellisestä iteraatiosta, jonka jälkeen havainnot jaetaan menetelmän nimen mukaisiin luokkiin. Kun havainnot on luokiteltu, jokainen osallistuja voi ”äänestää”, mistä havainnoista haluaisi keskustella eniten. Seuraavaksi havaintoja aletaan käymään yhdessä läpi aloittaen eniten ääniä saaneesta aiheesta. 
+
+
+
